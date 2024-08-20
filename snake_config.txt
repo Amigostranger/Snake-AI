@@ -1,0 +1,7 @@
+num_snakes      4   
+
+game_width      50 
+game_height     50
+
+speed	60
+                
